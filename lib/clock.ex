@@ -1,3 +1,5 @@
+# this is not part of an app
+# it was just example
 defmodule Clock do
 
   def start(f) do
